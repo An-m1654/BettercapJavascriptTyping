@@ -12,7 +12,6 @@ Just download the `httpProxy.d.ts` file, place it in the same directory as your 
 
 ```javascript
 /**
- *
  * @param {import("./httpProxy").JSRequest} req
  * @param {import("./httpProxy").JSResponse} res
  */
