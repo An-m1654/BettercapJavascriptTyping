@@ -1,5 +1,9 @@
 # Typing for bettercap javascript(js) files
 
+## NOTE
+
+The basic features are typed, but some (imo) lesser used features are not yet fully typed. Also, it lacks a lot of documentation so don't complain. If you want to help write documentation or typing, feel free to fork this repo and make a pull request.
+
 ## Introduction
 
 If you've ever used bettercap, you'd know how annoying it is to look around in the incomplete Bettercap docs or browse around the source code of Bettercap to figure out what variables and functions are in req and res, global functions, e.t.c.
