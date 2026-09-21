@@ -8,7 +8,7 @@ I found this annoying so I read the source code (for you) and consolidated them 
 
 ## How to use this
 
-Just before your `onRequest` and `onResponse` functions, add this JSDoc comment:
+Just download the `httpProxy.d.ts` file, place it in the same directory as your js file, then, before your `onRequest` and `onResponse` functions, add this JSDoc comment:
 
 ```javascript
 /**
