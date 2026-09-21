@@ -211,6 +211,7 @@ declare global {
 
 // For reference
 export function onLoad(): void;
+export function onExit(): void;
 export function onRequest(req: JSRequest, res: JSResponse): void;
 export function onResponse(req: JSRequest, res: JSResponse): void;
 export function onCommand(cmd: string): void;
